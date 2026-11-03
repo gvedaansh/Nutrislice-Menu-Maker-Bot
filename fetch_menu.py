@@ -264,7 +264,6 @@ def fetchFromUser():
 
     saveLastLink(link)
     path = saveMenu(items, choice["district"], choice["school"], choice["meal"], choice["date"])
-    print(f"Saved {len(items)} items to {path}")
     return items, path
 
 
