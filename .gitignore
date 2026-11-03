@@ -1,2 +1,7 @@
 venv/
 .env
+
+# generated when the program runs
+__pycache__/
+config.json
+menu_*.json
