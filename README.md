@@ -1,4 +1,4 @@
-# NutriSlicer
+# NutriSlice Menu Maker
 
 Plans a meal from your dining hall's menu. Works with any school or college that uses
 [Nutrislice](https://nutrislice.com) for its menus, and with an AI provider of your choice.
